@@ -1,0 +1,2 @@
+# testminify
+testing minifying
