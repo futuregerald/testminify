@@ -9,6 +9,7 @@ const name = "G-Money"
 
 
 document.write(`ok I added some extra spaces ${name}`);
+console.log('lets see if this works');
 
 
 // more extra space and useless comments
